@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\bin\Debug\net7.0\Entity.dll
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\bin\Debug\net7.0\Entity.pdb
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\obj\Debug\net7.0\Entity.dll
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\obj\Debug\net7.0\Entity.pdb
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\obj\Debug\net7.0\ref\Entity.dll
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\bin\Debug\net7.0\Entity.runtimeconfig.json
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Entity\obj\Debug\net7.0\Entity.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\bin\Debug\net7.0\Bussiness.deps.json
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\bin\Debug\net7.0\Bussiness.runtimeconfig.json
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\bin\Debug\net7.0\Bussiness.dll
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\bin\Debug\net7.0\Bussiness.pdb
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\obj\Debug\net7.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\obj\Debug\net7.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\obj\Debug\net7.0\Bussiness.AssemblyInfo.cs
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\obj\Debug\net7.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\obj\Debug\net7.0\Bussiness.dll
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\obj\Debug\net7.0\refint\Bussiness.dll
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\obj\Debug\net7.0\Bussiness.pdb
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\obj\Debug\net7.0\Bussiness.genruntimeconfig.cache
+C:\Users\user\Desktop\My ASP.NET PROJECTS\API\E-Commerce-API\Bussiness\obj\Debug\net7.0\ref\Bussiness.dll
